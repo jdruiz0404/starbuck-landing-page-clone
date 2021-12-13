@@ -1,2 +1,2 @@
-# starbuck-landing-page-clone
+# starbucks-landing-page-clone
 Tutorial by Traversy Media on YouTube
